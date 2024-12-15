@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx", // Pour React 17 et supérieur
+        "moduleResolution": "node", // Résolution des modules avec Node
+        "strict": true, // Vérifications strictes
+        "esModuleInterop": true, // Permet d'importer des modules CommonJS
+        "skipLibCheck": true, // Ignore les erreurs de type dans les fichiers de définition
+        "forceConsistentCasingInFileNames": true
+    }
+}
